@@ -1,3 +1,9 @@
+## Fork information
+
+This fork is used to convert PMM dashboards to Grafana compatible dashboards.
+
+It uses the `convert-to-grafana-dashboards.sh` script to do so.
+
 ## Grafana dashboards for efficient database monitoring
 
 The list of featured dashboards:
